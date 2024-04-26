@@ -1,0 +1,367 @@
+@media screen and (max-width: 992px) {
+    .home .container {
+        flex-direction: column-reverse;
+
+
+
+
+
+    }
+}
+
+
+
+
+@media screen and (max-width: 992px) {
+    .img-content {
+        width: 100%;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .buttons {
+        justify-content: center;
+
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 992px) {
+    .home .container .content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+    }
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .gallery.container {
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+/* --------------------------------------- */
+
+@media screen and (max-width: 768px) {
+    .chefscards {
+
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .chefscards {
+
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/* ------------------------------------------------------ */
+
+@media screen and (max-width: 992px) {
+    .gallery {
+        min-height: 350vh;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .img1piz {
+        order: ;
+
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .pizza {
+        width: 50%;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .beef {
+        width: 50%;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .fried {
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 250px;
+        padding: 0%;
+        margin: 0;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .friedimg1 {
+        width: 50%;
+        height: 100%;
+        /* margin-bottom: 100px; */
+        position: relative;
+        top: 20px;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .friedimg2 {
+        width: 50%;
+        padding: 0;
+        order: 3;
+        position: relative;
+        top: -140px;
+        /* background-color: tomato; */
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .friedimg3 {
+        width: 50%;
+        position: relative;
+        top: 20px;
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .gallery .container {
+        flex-direction: column;
+        /* justify-content: flex-start; */
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .pizza {
+        width: 80%;
+        height: 100%;
+        /* justify-content: flex-start; */
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .beef {
+        width: 80%;
+        height: 100%;
+        /* justify-content: flex-start; */
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .fried {
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        /* justify-content: flex-start; */
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .friedimg1 {
+        width: 80%;
+        height: 100%;
+        position: relative;
+        top: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .friedimg2 {
+        width: 80%;
+        height: 100%;
+        position: relative;
+        top: 40px;
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .friedimg3 {
+        width: 80%;
+        height: 100%;
+        position: relative;
+        top: 20px;
+
+    }
+}
+
+/* ------------------------------------------------------------ */
+
+@media screen and (max-width: 992px) {
+    .address {
+        width: 39%;
+        height: 25vh;
+        padding: 15px;
+        /* height: 20vh; */
+        /* height: auto; */
+
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .inputs {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .inputs input {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .frstbtn {
+        margin-bottom: 15px;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .details .container {
+        justify-content: center;
+
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .address {
+        width: 100%;
+        padding: 15px;
+        height: auto;
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .inputs {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .inputs input {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .frstbtn {
+
+        margin-bottom: 20px;
+
+    }
+}
+
+
+
+/* ---------------------------------------------------- */
+@media screen and (max-width: 992px) {
+    .subscribe {
+        order: 3;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .socialmedia {
+        order: 1;
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .intouchwithus {
+        width: 45%;
+        order: 2;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .footer {
+        height: 180vh;
+
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .subscribe {
+        order: 1;
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .socialmedia {
+        order: 1;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intouchwithus {
+        width: 100%;
+        order: 3;
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        height: 200vh;
+
+    }
+}
+
+/* ----------------------------------------- */
+
+@media screen and (max-width: 1200px) {
+    .nav-links {
+        display: none;
+
+    }
+}
